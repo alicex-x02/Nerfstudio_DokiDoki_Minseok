@@ -58,23 +58,22 @@ The reconstructed scene shows the subject from multiple viewpoints.
 The results demonstrate that Nerfstudio can reconstruct the overall human shape and indoor structure, although artifacts appear around the body boundary and lower region.
 
 ---
-
 ## Rendered Videos
 
 ### 1. Base Nerfstudio Experiment
 
 This video shows the rendering result from the default Nerfstudio sample experiment.
 
-https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok/blob/main/assets/base.mp4
+<video src="https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok/raw/main/assets/base.mp4" controls width="700"></video>
 
 ---
 
 ### 2. Custom Reconstruction Result
 
-This is the first rendered result from the custom DokiDoki Minseok reconstruction experiment.
+This is the first rendered result from the custom DokiDoki Minseok reconstruction experiment.  
 The output was successfully generated, but the video orientation was not correct.
 
-https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok/blob/main/assets/result_1.mp4
+<video src="https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok/raw/main/assets/result_1.mp4" controls width="700"></video>
 
 ---
 
@@ -82,9 +81,7 @@ https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok/blob/main/assets/resul
 
 This is the corrected version of the custom reconstruction result after rotating the rendered video to the proper orientation.
 
-https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok/blob/main/assets/result_2.mp4
-
----
+<video src="https://github.com/alicex-x02/Nerfstudio_DokiDoki_Minseok/raw/main/assets/result_2.mp4" controls width="700"></video>
 
 ## Presentation
 
