@@ -3,6 +3,9 @@
 Nerfstudio를 이용한 3D scene reconstruction 실험 프로젝트입니다.
 기본 예제 데이터로 Nerfstudio 학습 및 렌더링 과정을 먼저 확인한 뒤, 직접 촬영한 이미지 데이터를 이용해 인물과 실내 공간을 복원했습니다.
 
+## Acknowledgements
+
+Special thanks to @dla020501 for participating as the subject of the NeRF Studio reconstruction experiment.
 ---
 
 ## Overview
